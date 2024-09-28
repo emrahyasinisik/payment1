@@ -1,6 +1,6 @@
 # payment
 
-A new Flutter project.
+Google Pay Source Code
 
 ## Getting Started
 
